@@ -1,0 +1,6 @@
+{
+    "apiDomain" : "http://interview.agileengine.com:80",
+    "getImagesUrl": "",
+    "getImageDetailsUrl": "",
+    "getAuth" : "/auth"
+}
